@@ -1,3 +1,5 @@
+NVHM:
+
 Liars Berg: http://bl2skills.com/siren.html#040000000000000000000000000000
 Frostburn Canyon: http://bl2skills.com/siren.html#050000000020000000000000000000
 Bloodshot: http://bl2skills.com/siren.html#050000000050010000000000000000
@@ -14,3 +16,21 @@ Arid Nexus Badlands: http://bl2skills.com/siren.html#000000000050050000005500410
 Hero's Path: http://bl2skills.com/siren.html#000000000050050000005500410200
 Marcus' Mercenary Shop: http://bl2skills.com/siren.html#200000000050050000005500410500
 Flamerock Refuge: http://bl2skills.com/siren.html#300000000050050000005500410500
+Oasis + Hayter's Folly: http://bl2skills.com/siren.html#300000000050050000005500410500
+Rustyards: http://bl2skills.com/siren.html#400000000050050000005500410500
+Washburne Refinery: http://bl2skills.com/siren.html#400000000050050000005500410500
+
+TVHM:
+
+Liars Berg: http://bl2skills.com/siren.html#400000000050050000005500410500
+3 Horns Divide: http://bl2skills.com/siren.html#500000000050050000005500410500
+Frostburn Canyon: http://bl2skills.com/siren.html#504501055150050000000000000000
+3 Horns Valley: http://bl2skills.com/siren.html#504501055150050000000000000000
+Bloodshot Stronghold/Ramparts: http://bl2skills.com/siren.html#504501055150050000000100000000
+Hunter's Grotto: http://bl2skills.com/siren.html#504501055150050000000100000000
+Tundra Express: http://bl2skills.com/siren.html#200000000050050000005530510511
+End of the Line: http://bl2skills.com/siren.html#300000000050050000005530510511
+Friendship Gulag: http://bl2skills.com/siren.html#504501055150050000000300000000
+Overlook: http://bl2skills.com/siren.html#502100000050050000004510510500
+Tiny Tinas DLC: http://bl2skills.com/siren.html#503000000050010000005540510501
+Wildlife: http://bl2skills.com/siren.html#503000000050020000005540510501
